@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey,
+### My name's Ezra and I'm planning on getting a C.E. degree someday 👍
 
-<!--
-**EzraWolf/EzraWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current goals:
+- [ ] Start learning C++
+- [X] Start learning Rust
+- [X] Get a job :tada:
+- [ ] Make a custom ISA for an 8bit CPU
+- [ ] Make a bare-bones assembler for the ISA
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### README Stats:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EzraWolf&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraWolf&langs_count=5&theme=radical&hide_border=false" alt="Most Used Langs"/>
