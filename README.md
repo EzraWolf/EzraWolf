@@ -3,7 +3,7 @@
 
 :suspect: ![](https://komarev.com/ghpvc/?username=EzraWolf&label=My+Profile+View+Count&color=FE4F6E)
 
-Current goals as of February 5th, 2024:
+Current goals as of March, 2025:
  - [x] Have many ideas for projects
  - [ ] Find time to finish projects
  - [ ] Finish projects
