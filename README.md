@@ -1,13 +1,17 @@
+<div align="center">
+  <picture>
+    <!--<source media="(prefers-color-scheme: dark)" srcset="docs/logo_dark.svg">-->
+    <img alt="the launch of NG-24, Falcon-9 space shuttle" src="ng24.png" width="480">
+  </picture>
 
-# Ezra Wolf
+LEOPARDSat-1 launching aboard NG-24. credit: [Gwendolyn Kurzen.](https://www.dvidshub.net/portfolio/1894107/gwendolyn-kurzen)
 
-:suspect: ![](https://komarev.com/ghpvc/?username=EzraWolf&label=My+Profile+View+Count&color=FE4F6E)
+satellite, silicon, and circuitry designer
 
-Current goals as of March, 2025:
- - [x] Have many ideas for projects
- - [ ] Find time to finish projects
- - [ ] Finish projects
+<h3>
 
-## Developer Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EzraWolf&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraWolf&langs_count=5&theme=radical&hide_border=false" alt="Most Used Langs"/>
+:suspect: ![](https://komarev.com/ghpvc/?username=ezrawolf&label=profile+views&color=5BC454)
+
+</h3>
+
+</div>
