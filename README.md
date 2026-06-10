@@ -4,7 +4,7 @@
     <img alt="the launch of NG-24, Falcon-9 space shuttle" src="ng24.png" width="480">
   </picture>
 
-LEOPARDSat-1 launching aboard NG-24. credit: [Gwendolyn Kurzen.](https://www.dvidshub.net/portfolio/1894107/gwendolyn-kurzen)
+LEOPARDSat-1 launching aboard NG-24, credit: [Gwendolyn Kurzen](https://www.dvidshub.net/portfolio/1894107/gwendolyn-kurzen)
 
 satellite, silicon, and circuitry designer
 
