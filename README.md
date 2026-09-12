@@ -6,7 +6,7 @@
 
 LEOPARDSat-1 launching aboard NG-24, credit: [Gwendolyn Kurzen](https://www.dvidshub.net/portfolio/1894107/gwendolyn-kurzen)
 
-satellite, silicon, and circuitry designer
+3X ASIC tapeout, 1X satellite, HDI circuitry
 
 <h3>
 
